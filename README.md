@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Satyan Cahyono
 - 👀 I’m interested in Technology & Digitalization
-- 🌱 I’m currently learning Dot.NET Development
+- 🌱 I’m currently learning Dot.NET, ASP.NET, PHP, CodeIgniter Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
